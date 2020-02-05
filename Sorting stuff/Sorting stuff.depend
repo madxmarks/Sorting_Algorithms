@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1546207286 source:c:\users\nik_g\onedrive\documents\study code\sorting stuff\main.cpp
+	<iostream>
+	"Algs.h"
+	<stdlib.h>
+	<windows.h>
+	<bits/stdc++.h>
+	<sys/time.h>
+	<fstream>
+
+1546207250 source:c:\users\nik_g\onedrive\documents\study code\sorting stuff\src\algs.cpp
+	"Algs.h"
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<vector>
+	<cstdlib>
+	<chrono>
+	<windows.h>
+	<bits/stdc++.h>
+	<sys/time.h>
+	<stdexcept>
+
+1546207250 c:\users\nik_g\onedrive\documents\study code\sorting stuff\include\algs.h
+
